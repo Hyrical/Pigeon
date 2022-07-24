@@ -1,0 +1,5 @@
+{
+  "entrypoint": "org.hyrical.pigeon.Pigeon",
+  "name": "Pigeon",
+  "version": "1.0.0"
+}
