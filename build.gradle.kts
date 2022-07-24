@@ -6,7 +6,7 @@ plugins {
     id("com.github.johnrengelman.shadow") version "7.0.0"
 }
 
-group = "dev.viva.pigeon"
+group = "org.hyrical.pigeon"
 version = "1.0-SNAPSHOT"
 
 repositories {
